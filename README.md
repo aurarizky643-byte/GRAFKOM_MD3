@@ -92,3 +92,4 @@ browser (`npx serve .` -> `/web/`), orbit the textured temple, **Export PPM**
 at the default camera, and run `python compare.py out/temple_raster.ppm
 web/temple_three.ppm` -- expect ~30 dB with the residual on anti-aliased
 silhouette edges. Record browser + version.
+"# GRAFKOM_MD3" 
